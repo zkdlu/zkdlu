@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zkdlu&show_icons=true&theme=radical)
+<br>
+
 -->
