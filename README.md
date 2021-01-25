@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 
 
-<br>
 
 ![zkdlu's github stats](https://github-readme-stats.vercel.app/api?username=zkdlu&show_icons=true&theme=merko)
 ![zkdlu's github stats](https://github-readme-stats.vercel.app/api?username=zkdlu&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkdlu&layout=compact&exclude_repo=zkdlu.github.io,wpf_video,Mall-Mall,Flower-Project,github-action-example)](https://github.com/anuraghazra/github-readme-stats)
 -->
